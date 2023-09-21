@@ -1,0 +1,43 @@
+body{
+    margin: 0; 
+}
+
+h1,
+h2 {
+   text-align: center;
+}
+
+.principal{
+    background: black;
+    color: white;
+}
+
+.principal p {
+    text-align: center;
+}
+
+em strong {
+    text-align: center;
+    color: deeppink;
+}
+
+#banner { 
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+
+#missao {
+    font-size:20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15%;
+}
+
+.imagembeneficios {
+    width:50%;
+    float: right;
+}
