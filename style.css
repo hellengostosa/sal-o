@@ -72,3 +72,41 @@ nav a {
 header div.container {
     display: flex;
 }
+
+.produtos {
+    margin-top: 50px;
+    padding: 0;
+}
+
+.prodtos li {
+    display: inline-block;
+    text-align: center;
+    width: 28;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+}
+
+.produtos h2 {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.produto-descricao {
+    font-size: 18px;
+}
+
+.produto-preco {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.produtos li:hover {
+    color: #000000
+}
+
+.produtos li img {
+    max-width: 250px;
+}
