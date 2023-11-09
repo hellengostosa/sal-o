@@ -105,3 +105,16 @@ header div.container {
 .produtos li img {
     max-width: 250px;
 }
+
+footer {
+    text-align: center;
+    padding: 40px 0;
+    background: green;
+    margin-top: 50px;
+}
+
+.copyright {
+    color: #ffffff;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
